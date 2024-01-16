@@ -64,7 +64,10 @@ Jareth Ronquillo, Joysis Tech Voc Inc. - TESDA <br>
 ~~User/Admin Profile~~ ✔ <br>
 ~~Generate image QR after successful user registration~~ ✔ <br>
 
-<br>
-`final system demonstration video link` <br>
-[Video Links](https://drive.google.com/file/d/1M9zadMRkjcHv0nseR-_ImLdM4b2xnVFh/view)
+``final system demonstration video link`` <br>
+https://drive.google.com/file/d/1M9zadMRkjcHv0nseR-_ImLdM4b2xnVFh/view <br>
+
+``screenshots`` <br>
+https://drive.google.com/drive/folders/1Eb9QAgkAauPOqRzA_ZfGk_bic3aH0_3P
+<br><br><br>
 
